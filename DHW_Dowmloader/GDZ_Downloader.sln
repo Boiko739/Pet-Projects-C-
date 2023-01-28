@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDZ_Downloader", "DHW_Dowmloader\GDZ_Downloader.csproj", "{C7E3645B-A9AF-4F54-A58D-698EDBCF7FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E3645B-A9AF-4F54-A58D-698EDBCF7FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E3645B-A9AF-4F54-A58D-698EDBCF7FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E3645B-A9AF-4F54-A58D-698EDBCF7FD3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E3645B-A9AF-4F54-A58D-698EDBCF7FD3}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2703A085-E2F3-4E76-AF7B-B06E563B52CA}
+	EndGlobalSection
+EndGlobal
